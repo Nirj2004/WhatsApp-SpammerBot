@@ -7,7 +7,6 @@ This script can send a finite amount of messages to a chat on whatsapp. It uses 
 
 
 
-https://img.fresherslive.com/latestnews/images/articles/width-900/2021/11/15/how-to-use-whatsapp-on-laptop-without-internet-in-your-phone-6191e4c2b4ae4-1636951234.jpg
 
 
 

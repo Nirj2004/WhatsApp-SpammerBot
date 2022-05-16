@@ -5,7 +5,7 @@ A python script to spam chats on WhatsApp!
 This script can send a finite amount of messages to a chat on whatsapp. It uses the splinter library to type and mouse-click. 
 
 
-https://qph.fs.quoracdn.net/main-qimg-753c6b2644fcc8b9d24d3e50611ad859
+
 
 https://img.fresherslive.com/latestnews/images/articles/width-900/2021/11/15/how-to-use-whatsapp-on-laptop-without-internet-in-your-phone-6191e4c2b4ae4-1636951234.jpg
 

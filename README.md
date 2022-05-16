@@ -69,7 +69,7 @@ optional arguments:
 -> Then proceed to scanning the code appeared on the WhatsApp-Web-App.
 
 ## To support the project, contribute(Using UPI):
->>PAYTM: 7439005838545@paytm
->>PHONEPE: 7439005838@ybl
->>GOOGLE-PAY: 7439005838@okhdfc
->>BHIM: nirjhar5838@upi
+PAYTM: 7439005838545@paytm
+PHONEPE: 7439005838@ybl
+GOOGLE-PAY: 7439005838@okhdfc
+BHIM: nirjhar5838@upi

@@ -64,8 +64,8 @@ optional arguments:
 -> You can link WhatsApp on your phone with you computer by clicking on the three dots on the top right of the WhatsApp Mobile App.
 -> Then click on "Linked Devices"
 -> Then click on the "Link Device" button.(Unlock should be instructed so please unclock you device by providing the lockscreen password, fingerprint or face recognition.)
--> Then the scanner will be opened within the WhatsApp Mobile App.
--> Then proceed to scanning the code appeared on the WhatsApp-Web-App.
+-> Then a QR code scanner will be opened within the WhatsApp Mobile App.
+-> Then proceed to scanning the QR code appeared on the WhatsApp-Web-App on your computer.
 
 ## To support the project, contribute(Using UPI):
 PAYTM: 7439005838545@paytm,

@@ -70,10 +70,10 @@ optional arguments:
 
 # To support the project, contribute(Using UPI):
 <img width="450" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png">
-### Paytm : 7439005838@paytm
+# Paytm : 7439005838@paytm
 <img width="450" src="https://i.pinimg.com/736x/19/29/17/1929176785bcaf86ef6518447e5f6914.jpg">
-### PhonePe : 7439005838@ybl
+# PhonePe : 7439005838@ybl
 <img width="450" src="https://play-lh.googleusercontent.com/nJb1jp0riNf3zmbbiJwK4l6NYpfV0m_YBfQFJUo7ufGFLndz2yeSRR-e0_dcSlK602o">
-### Gpay : 7439005838@okhdfcbank
+# Gpay : 7439005838@okhdfcbank
 <img width="450" src="https://telecombyte.com/wp-content/uploads/2022/02/bhim-upi-logo.jpg">
-### BHIM : nirjhar5838@upi
+# BHIM : nirjhar5838@upi

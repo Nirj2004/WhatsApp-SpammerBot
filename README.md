@@ -6,8 +6,9 @@ This script can send a finite amount of messages to a chat on whatsapp. It uses 
 
 
 
+<img width="414" src="https://cyberwarzone.com/wp-content/uploads/2019/06/FsWUqRoOsPu.png">
 
-
+<img width="414" src="https://i.ytimg.com/vi/5vObXawsUQA/maxresdefault.jpg">
 
 
 *DISCLAIMER:* The contents of this repository were written only for educational purposes and not to cause trouble or annoyance to any person or group of persons.

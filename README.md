@@ -68,7 +68,7 @@ optional arguments:
 -> Then proceed to scanning the QR code appeared on the WhatsApp-Web-App on your computer.
 
 # To support the project, contribute(Using UPI):
-# Paytm : 7439005838@paytm
-# PhonePe : 7439005838@ybl
-# Gpay : 7439005838@okhdfcbank
-# BHIM : nirjhar5838@upi
+### Paytm : 7439005838@paytm
+### PhonePe : 7439005838@ybl
+### Gpay : 7439005838@okhdfcbank
+### BHIM : nirjhar5838@upi

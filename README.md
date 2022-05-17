@@ -70,13 +70,13 @@ optional arguments:
 
 # To support the project, contribute(Using UPI):
 
-# Paytm : 7439005838@paytm
+## Paytm : 7439005838@paytm
 
-# PhonePe : 7439005838@ybl
+## PhonePe : 7439005838@ybl
 
-# Gpay : 7439005838@okhdfcbank
+## Gpay : 7439005838@okhdfcbank
 
-# BHIM : nirjhar5838@upi
+## BHIM : nirjhar5838@upi
 
 
 <img width="450" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Paytm_logo.png">
